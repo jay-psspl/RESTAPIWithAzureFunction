@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPIWithAzureFunction", "RESTAPIWithAzureFunction\RESTAPIWithAzureFunction.csproj", "{2BC41B2F-B8E6-4C10-8E17-5D1680021CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC41B2F-B8E6-4C10-8E17-5D1680021CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC41B2F-B8E6-4C10-8E17-5D1680021CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC41B2F-B8E6-4C10-8E17-5D1680021CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC41B2F-B8E6-4C10-8E17-5D1680021CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C3E2F1C-DE47-4707-B29A-549FC6A43B3D}
+	EndGlobalSection
+EndGlobal
